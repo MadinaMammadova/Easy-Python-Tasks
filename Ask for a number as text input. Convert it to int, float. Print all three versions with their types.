@@ -1,0 +1,5 @@
+print("Number=",end=" ")
+number=input()
+floatnumber=float(number)
+intnumber=int(number)
+print(number,type(number),floatnumber,type(floatnumber),intnumber,type(intnumber))
