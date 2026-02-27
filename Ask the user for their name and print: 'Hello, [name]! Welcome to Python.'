@@ -1,3 +1,0 @@
-print("Name=",end=" ")
-name=input()
-print("Hello",name,"!Welcome to Python")
